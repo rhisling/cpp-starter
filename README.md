@@ -1,0 +1,1 @@
+## A simple c++ cmake starter template with Catch2.
